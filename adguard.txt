@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-18 20:10:01
-! Total count: 33201
+! Version: 2023-03-19 02:06:58
+! Total count: 33205
 
 /^[a-z]{11,15}$/
 /^[a-z]{7,10}$/$ctag=device_tv
@@ -508,7 +508,6 @@
 ||336.com^
 ||339.cn^
 ||3393.com^
-||33rdderryscouts.com^
 ||3457owa-acccms.controlprivate.train.net.zooplus.nl^
 ||3457owa-analyticsnsnginx.dii3.adm-ids.net.zooplus.nl^
 ||35.194.26.233^
@@ -2472,6 +2471,7 @@
 ||access.toggle.qq.com^
 ||access1.tpns.tencent.com^
 ||accesshealthanytime.com^
+||accesstelematics.com^
 ||accgatewayvisionmail.net.europe-aws-oid.net.service.net.zooplus.es^
 ||accgitlabvision-mail-svc-mail.net.zooplus.nl^
 ||acchoosclothing.com^
@@ -4480,7 +4480,6 @@
 ||api.1101yh.com^
 ||api.22lianmeng.com^
 ||api.36dfsa.com^
-||api.52kkg.com^
 ||api.660011.cc^
 ||api.ad.xiaomi.com^
 ||api.afdback.ppsimg.com^
@@ -6147,6 +6146,7 @@
 ||breakyboost.com^
 ||breyer.co^
 ||brickworks.viessmann.sg^
+||brideofmessiah.com^
 ||bridgetechinnovations.com^
 ||briefbears.com^
 ||briefstem.com^
@@ -7633,6 +7633,7 @@
 ||comunicazioni.bancamediolanum.it^
 ||con.org.ni^
 ||conacparkview.com^
+||conalom.top^
 ||conas.uz^
 ||conceptualizereading.com^
 ||concernedcondition.com^
@@ -8007,7 +8008,6 @@
 ||crayfish.thingelstad.com^
 ||crayoncompetition.com^
 ||craze69.com^
-||crazytree0021.ga^
 ||crcard.com.br^
 ||cre-dp.sina.cn^
 ||creamradiotv.com^
@@ -8028,6 +8028,7 @@
 ||creativesys.com.sa^
 ||creativit.fr^
 ||creator.zmags.com^
+||crecerco.com^
 ||creche-trelaze.fr^
 ||credencesolutions.co.in^
 ||credins.iw.al^
@@ -9018,6 +9019,7 @@
 ||desprejuiciades.com.ar^
 ||desr.fkapi.net^
 ||destinocuenca.com^
+||destinymc.co.za^
 ||desysa.net^
 ||detail-booking.com.br^
 ||detail.taobao.com^
@@ -9616,7 +9618,7 @@
 ||download.caihong.com^
 ||download.dnv.com^
 ||download.dnvgl.com^
-||download.doumaibiji.cn^
+||download.pdf00.cn^
 ||download.skycn.com^
 ||download.wan.sohu.com^
 ||download1.software^
@@ -9884,6 +9886,7 @@
 ||e-commerce.saleensuporte.com.br^
 ||e-engages.com^
 ||e-gospel.org^
+||e-hemsire.net^
 ||e-nfc.com^
 ||e-noxcompanyltd.ug^
 ||e-p4p.163.com^
@@ -11256,6 +11259,7 @@
 ||fandoogh.com^
 ||fangfeeling.com^
 ||fangfeng009.xyz^
+||fantadentalperu.com^
 ||fantasticdatavtu.com^
 ||fantasticsmash.com^
 ||faplanning.co.uk^
@@ -11695,7 +11699,6 @@
 ||forgoodmusic.com.tw^
 ||forjatkom.com^
 ||forlabscience.com^
-||formar3d.com.br^
 ||forms.accc-cancer.org^
 ||forms.testoil.com^
 ||formulamigueldiaz.ml^
@@ -12442,6 +12445,7 @@
 ||gnmglobalpartners.com^
 ||gnnkrz.josbank.com^
 ||gnqxd.cn^
+||gnr.gtu.ge^
 ||gnrnws.cn^
 ||gnsdekor.com.tr^
 ||go-mpulse.net^
@@ -13345,7 +13349,6 @@
 ||hits.zdnet.co.kr^
 ||hitserver.ibope.com.br^
 ||hitslink.com^
-||hitstation.nl^
 ||hiuplq.diretta.it^
 ||hiuplq.eredmenyek.com^
 ||hiuplq.flashscore.co.uk^
@@ -15899,6 +15902,7 @@
 ||lccfjszp.cn^
 ||lcdn.runative-syndicate.com^
 ||lcdsyj.daily.co.jp^
+||lceventos.net^
 ||lciapi.ninthdecimal.com^
 ||lcodff.uta-net.com^
 ||lcristo.s3.fr-par.scw.cloud^
@@ -16039,6 +16043,7 @@
 ||libertydatas.com^
 ||libertyhomeequity.actonservice.com^
 ||libnde.eu^
+||library.arihantmbainstitute.ac.in^
 ||library.westernstatescat.com^
 ||librarymanagement.cn^
 ||libreeofice.com^
@@ -16075,6 +16080,7 @@
 ||lightshoot.top^
 ||lightshot.software^
 ||lihong.ltd^
+||liidv.world^
 ||lijasyabrasivos.com^
 ||lijie.in^
 ||lijunkai.com^
@@ -18377,6 +18383,7 @@
 ||misspatsims.com^
 ||mist22.com^
 ||misteriosymas.com^
+||mistitis.ug^
 ||mistydeblasiophotography.com^
 ||mit.db.com^
 ||mit.deutsche-bank.de^
@@ -19021,6 +19028,7 @@
 ||namedq.com^
 ||namies.co.za^
 ||namlittleforest.com^
+||namthaibinh.net^
 ||namvietcamera.vn^
 ||nangmuicautruc.store^
 ||nanistores.com^
@@ -19162,7 +19170,6 @@
 ||netv24.com^
 ||network.armycadets.com^
 ||networkstore.id^
-||networkwheels.co.za^
 ||networthrecords.com^
 ||neu-bank.com^
 ||neuronimbus.in^
@@ -19322,6 +19329,7 @@
 ||nijnqwem.xyz^
 ||nike666.com^
 ||nikito.ir^
+||nikivprivates.7m.pl^
 ||nikthedesigner.net^
 ||nil.naver.com^
 ||nilbike.es^
@@ -21042,6 +21050,7 @@
 ||pocketfaucet.com^
 ||podiumacaiteria.com.br^
 ||podiumpresto.com^
+||podlf.world^
 ||podomorolaser.com^
 ||poereawer.top^
 ||pogtrading.co.za^
@@ -21454,7 +21463,6 @@
 ||pumpkin.abine.com^
 ||punchbox.org^
 ||punishment-chat.click^
-||punjabdevelopersassociation.com.pk^
 ||punkhybalsin.com^
 ||punyplant.com^
 ||pupipets.com^
@@ -23901,6 +23909,7 @@
 ||server.easysalepage.in.th^
 ||server.japanbyrivercruise.com^
 ||server.olliehorn.com^
+||server.toeicswt.co.kr^
 ||server.zymkcdn.com^
 ||server434633.nazwa.pl^
 ||server512758.nazwa.pl^
@@ -27051,7 +27060,6 @@
 ||streamloot.co^
 ||streammovie.live^
 ||streamstats.prd.dlive.tv^
-||streamtvbox.net^
 ||streamtvpro.co^
 ||streannft.com^
 ||streetturbo.network^
@@ -27565,6 +27573,7 @@
 ||t.goduke.com^
 ||t.goheels.com^
 ||t.gotigersgo.com^
+||t.honker.info^
 ||t.hypers.com.cn^
 ||t.imgur.com^
 ||t.indeed.com^
@@ -28208,7 +28217,6 @@
 ||thebusinessstudy.com^
 ||thecableprovider.com^
 ||thecavalier.com^
-||thecentury.edu.vn^
 ||thechachasbiryani.com^
 ||thecharlescorner.com.au^
 ||thechildhooddream.com^
@@ -28749,6 +28757,7 @@
 ||torpidtongue.com^
 ||torpidtoothpaste.com^
 ||torrantautomobile.com^
+||torresquinterocorp.com^
 ||torropinto.viessmann.es^
 ||toruk.tanx.com^
 ||tos5dqejpd.www.freecodecamp.org^
@@ -30581,10 +30590,8 @@
 ||uwnvcxb.cn^
 ||uwy4.aegon.es^
 ||uxbd4id.xyz^
-||uxsingh.com^
 ||uyf1u0x7.xyz^
 ||uyflu0x7.xyz^
-||uylab.org^
 ||uyunad.com^
 ||uzd1.madeindesign.com^
 ||uzuri-shop.com^
@@ -31502,7 +31509,6 @@
 ||wilaya-eloued.dz^
 ||wildcardwebdesign.com.au^
 ||wildernesscamera.com^
-||wildnights.co.uk^
 ||wildnorfolk.org^
 ||willaonigeria.com^
 ||williemcbrides.com^
@@ -31514,7 +31520,6 @@
 ||winasdaq.com^
 ||winbridgebd.com^
 ||wind88.shop^
-||windcomtechnologies.com^
 ||winding-coil.com^
 ||windowsupdates.shop^
 ||windsonstaffing.com^
@@ -32783,7 +32788,6 @@
 ||yoyi.tv^
 ||yoyue.net^
 ||yozgatbozok.com^
-||yp.hnggzyjy.cn^
 ||ypspi.id^
 ||ypzps.com^
 ||yqee.htsrvlink.com^
