@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-19 14:08:46
-! Total count: 33191
+! Version: 2023-03-19 20:10:19
+! Total count: 33192
 
 /^[a-z]{11,15}$/
 /^[a-z]{7,10}$/$ctag=device_tv
@@ -33179,6 +33179,7 @@
 ||zykwnj.cn^
 ||zymbrlgu.cn^
 ||zyq2.destinia.sk^
+||zyrwfd.xyz^
 ||zyzlpt.com^
 ||zz.bdstatic.com^
 ||zz.imiqian.com^
