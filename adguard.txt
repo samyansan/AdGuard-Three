@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-19 08:36:49
-! Total count: 33205
+! Version: 2023-03-19 14:08:46
+! Total count: 33191
 
 /^[a-z]{11,15}$/
 /^[a-z]{7,10}$/$ctag=device_tv
@@ -63,7 +63,6 @@
 ||031dfgh.com^
 ||033.com^
 ||033dfgh.com^
-||034b.campaign.tworiversboat.com^
 ||034dfgh.com^
 ||035caop.com^
 ||036e.cn^
@@ -270,7 +269,6 @@
 ||168ad.cc^
 ||16ao.mathon.fr^
 ||16i6nuuc2ej.koelewijn.nl^
-||1717.1000uc.com^
 ||1717gs.com^
 ||173.net.zooplus.de^
 ||177tvbxs.com^
@@ -508,6 +506,7 @@
 ||336.com^
 ||339.cn^
 ||3393.com^
+||33rdderryscouts.com^
 ||3457owa-acccms.controlprivate.train.net.zooplus.nl^
 ||3457owa-analyticsnsnginx.dii3.adm-ids.net.zooplus.nl^
 ||35.194.26.233^
@@ -4480,6 +4479,7 @@
 ||api.1101yh.com^
 ||api.22lianmeng.com^
 ||api.36dfsa.com^
+||api.52kkg.com^
 ||api.660011.cc^
 ||api.ad.xiaomi.com^
 ||api.afdback.ppsimg.com^
@@ -4777,7 +4777,6 @@
 ||artistchristinacarmel.ericksonbuilt.com^
 ||artistideldivertimento.it^
 ||artos.network^
-||artrsllc.com^
 ||arts-cloud.net^
 ||artsconnectinc.com.au^
 ||artsygift.in^
@@ -5102,6 +5101,7 @@
 ||avsgroup.in^
 ||avskart.com^
 ||avsmarthomes.com.au^
+||avstars.in^
 ||aw-cs.net^
 ||awagamancasting.com^
 ||awancodex.com^
@@ -5412,7 +5412,6 @@
 ||bbbihe.vertbaudet.es^
 ||bbc-s.news^
 ||bbcmountain.com^
-||bbia.co.uk^
 ||bbrfi.org^
 ||bbuni.com^
 ||bbvoyage.com^
@@ -5515,7 +5514,6 @@
 ||beamincrease.com^
 ||beanbagsfilling.com.au^
 ||beap.gemini.yahoo.com^
-||bearcatpumps.com.cn^
 ||bearcreekliqourcentre.com^
 ||bearobonaut.com^
 ||beartees.pubninja.com^
@@ -5608,7 +5606,6 @@
 ||benthose.com^
 ||bentleyturf.com^
 ||bento.agoda.com^
-||benwellgroup.co.uk^
 ||beornwilde.com^
 ||bepolite.eu^
 ||bepsychologycenter.com^
@@ -6593,6 +6590,7 @@
 ||carstat.bitauto.com^
 ||cartbuilder.live^
 ||carte.fleet-page.total.fr^
+||cartoon-clock.click^
 ||carusoadvogados.com.br^
 ||carvecakes.com^
 ||carzbz.braincandy.net^
@@ -6699,7 +6697,6 @@
 ||cdldistributiongulf.com^
 ||cdlto.com.br^
 ||cdn-120.filechan.org^
-||cdn-130.anonfiles.com^
 ||cdn-130.filechan.org^
 ||cdn-132.anonfiles.com^
 ||cdn-133.anonfiles.com^
@@ -7049,6 +7046,7 @@
 ||circlelevel.com^
 ||cirexcell.com^
 ||cis.sohu.com^
+||cisnc.it^
 ||cisneroselectronica.com^
 ||ciszhp.finanzfrage.net^
 ||ciszhp.gesundheitsfrage.net^
@@ -7068,7 +7066,6 @@
 ||cityofborongan.gov.ph^
 ||cityofdream.co.uk^
 ||cityoftransformation.com^
-||citypharmacylv.com^
 ||citypublicschoolpremnagar.in^
 ||citysourcing.in^
 ||citytrstbk.com^
@@ -8207,7 +8204,6 @@
 ||cursodeelectricidadindustrialbasica.com^
 ||cursodeestadistica.com^
 ||cursodemineriadedatos.com^
-||cursodeparapsicologia.org^
 ||cursoexatas.com.br^
 ||curtaincows.com^
 ||curtainsblindsdesign.com.au^
@@ -9618,6 +9614,7 @@
 ||download.caihong.com^
 ||download.dnv.com^
 ||download.dnvgl.com^
+||download.doumaibiji.cn^
 ||download.pdf00.cn^
 ||download.skycn.com^
 ||download.wan.sohu.com^
@@ -10002,6 +9999,7 @@
 ||eadflf.com.br^
 ||eadigitalrepublic.co.za^
 ||eafricadominicans.org^
+||eagle-insight.com^
 ||eagle.kudzu.com^
 ||eagletechnosys.com^
 ||eamarstar.com^
@@ -10209,7 +10207,6 @@
 ||edeals.rbp.com^
 ||edefa.world^
 ||edenweby.com^
-||edf41f52-452f-4671-a310-1da9f1d2ecd8.usrfiles.com^
 ||edge.adobedc.net^
 ||edge.staging.fullstory.com^
 ||edgeconsulting.fr^
@@ -10503,7 +10500,6 @@
 ||em.touchtunes.com^
 ||emaafesp.gov.co^
 ||emagrecercomsaude.digital^
-||emaids.co.za^
 ||email-clicks.vts.com^
 ||email-link.mg.surkus.com^
 ||email-listrak.branch.rocks^
@@ -11063,6 +11059,7 @@
 ||ex3mall.com^
 ||exalt.pk^
 ||examtestbanksolution.com^
+||exandtokes.top^
 ||exbujk.glamood.com^
 ||exceedwiz.com^
 ||excelbatteries.in^
@@ -11699,6 +11696,7 @@
 ||forgoodmusic.com.tw^
 ||forjatkom.com^
 ||forlabscience.com^
+||formar3d.com.br^
 ||forms.accc-cancer.org^
 ||forms.testoil.com^
 ||formulamigueldiaz.ml^
@@ -11939,7 +11937,6 @@
 ||fuzzybasketball.com^
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
-||fveco.com^
 ||fvf3adsna5qc.www.earthclassmail.com^
 ||fvffd678.xyz^
 ||fwgc93.com^
@@ -12388,6 +12385,7 @@
 ||globalcommunications.sc.com^
 ||globalconnectadmin.com^
 ||globaldependableshippers.com^
+||globalexpresscarriers.com^
 ||globalfreightconnections.com^
 ||globaliasacademy.com^
 ||globalink.ie^
@@ -12445,7 +12443,6 @@
 ||gnmglobalpartners.com^
 ||gnnkrz.josbank.com^
 ||gnqxd.cn^
-||gnr.gtu.ge^
 ||gnrnws.cn^
 ||gnsdekor.com.tr^
 ||go-mpulse.net^
@@ -13062,7 +13059,6 @@
 ||hauchi.com.tw^
 ||hauhws.asgoodasnew.de^
 ||hauntlist.com^
-||hausseeblickscheidegg.de^
 ||havardessays.com^
 ||havenlyhousinggroup.co.uk^
 ||havichostbrasil.com^
@@ -13534,7 +13530,6 @@
 ||hotelgroyale.com^
 ||hotelkristoff.com^
 ||hotelmannatexcellency.com^
-||hotelmourya.com^
 ||hotelrazlog.com^
 ||hotelresortoffers.com^
 ||hotelrosebud.com^
@@ -13556,7 +13551,6 @@
 ||houseofcheapammo.com^
 ||houseofproducts.biz^
 ||houssagynecologue.com^
-||howebeautiful.com^
 ||hownter2301.blob.core.windows.net^
 ||howrides.com^
 ||howtowise.com^
@@ -13574,7 +13568,6 @@
 ||hqnpwzu.cn^
 ||hr-nations.com^
 ||hr-survey.ma^
-||hr2019.vrcom7.com^
 ||hra.nyp.org^
 ||hrbrmacu.beget.tech^
 ||hrclat.kijiji.it^
@@ -15669,7 +15662,6 @@
 ||krw.yrehdfer.com^
 ||krxd.net^
 ||kryedent.com^
-||ks.cn^
 ||ks.walkq.com^
 ||ks66666661.com^
 ||ksa.edu.pk^
@@ -15902,7 +15894,6 @@
 ||lccfjszp.cn^
 ||lcdn.runative-syndicate.com^
 ||lcdsyj.daily.co.jp^
-||lceventos.net^
 ||lciapi.ninthdecimal.com^
 ||lcodff.uta-net.com^
 ||lcristo.s3.fr-par.scw.cloud^
@@ -16104,7 +16095,6 @@
 ||limpopocranes.co.za^
 ||linario.de^
 ||lindenprofessionalservices.com^
-||lindnerelektroanlagen.de^
 ||line1-log.biligame.net^
 ||linear-f.com^
 ||lineupgenix.com^
@@ -16430,6 +16420,7 @@
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-gateway.zoom.us^
+||log-lb.skyperfectv.co.jp^
 ||log-sdk.ksapisrv.com^
 ||log-stats.weathercn.com^
 ||log-upload.mihoyo.com^
@@ -17719,7 +17710,6 @@
 ||meltmilk.com^
 ||memopilot.com^
 ||memorycobweb.com^
-||mendezplumbingservicellc.com^
 ||menergyinternational.com^
 ||mengbli.com^
 ||mengyang.info^
@@ -17728,7 +17718,6 @@
 ||mentorslab.in^
 ||meonhanong.com^
 ||meota.com.ng^
-||mepstein.com^
 ||mequitecmantenimiento.es^
 ||mer.stdout.cz^
 ||merabmall.com.ng^
@@ -18637,6 +18626,7 @@
 ||motocheckvip.com^
 ||motorrad-tours.com^
 ||motosur.com.ve^
+||motovinreports.com^
 ||motuopj.cn^
 ||mouawzi-khilafii.s3.pl-waw.scw.cloud^
 ||mountainouspear.com^
@@ -19900,7 +19890,6 @@
 ||oms.nhllive.com^
 ||oms.norton.com^
 ||oms.omnitv.ca^
-||oms.pappai.com^
 ||oms.rogersmedia.com^
 ||oms.snnow.ca^
 ||oms.symantec.com^
@@ -20525,7 +20514,6 @@
 ||pearlnigeria.com^
 ||pears.contractorcalculator.co.uk^
 ||peasx.com^
-||peb.co.il^
 ||pebblewoodbanquethall.com^
 ||pebstar.com^
 ||pecadosdelamalta.com^
@@ -21463,6 +21451,7 @@
 ||pumpkin.abine.com^
 ||punchbox.org^
 ||punishment-chat.click^
+||punjabdevelopersassociation.com.pk^
 ||punkhybalsin.com^
 ||punyplant.com^
 ||pupipets.com^
@@ -22004,7 +21993,6 @@
 ||reachandrich.antevenio.com^
 ||reachmax.cn^
 ||reachoutsms.com^
-||reacredit.com.br^
 ||reactor.xingye.work^
 ||read.medium.com^
 ||reader.sh.vip.qq.com^
@@ -23343,7 +23331,6 @@
 ||scholarshipgossip.com^
 ||scholarwriters.us^
 ||schoolamericanenglish.com^
-||schoolofspanish.co.za^
 ||schoonheidsspecialiste-ank.be^
 ||schoutenkartoplan.com^
 ||schultzseguros.com.br^
@@ -24211,7 +24198,6 @@
 ||siecconvenciones.com^
 ||siennaboutique.fr^
 ||sierraagrolime.com^
-||sieuthiphutungxenang.com^
 ||sieuthithuoctot247.com^
 ||siewmi.uncommongoods.com^
 ||sifa.aak7.cn^
@@ -27207,7 +27193,6 @@
 ||sunflexpackagers.com^
 ||sunflowermultimedia.fr^
 ||sungco.com.vn^
-||sunglassesninja.com^
 ||sunhomes.com.vn^
 ||sunjianlong.com^
 ||sunkella.com^
@@ -27254,7 +27239,6 @@
 ||supersimplehometips.com^
 ||superslot899.com^
 ||supersonicads.com^
-||superstar.tibolts.co.uk^
 ||supervisegoldfish.com^
 ||superyachts24.com^
 ||supfast.net^
@@ -27740,6 +27724,7 @@
 ||talkingnamba.net^
 ||tallerdetesis.com^
 ||talltouch.com^
+||tamanzakat.org^
 ||tameemnihar.com^
 ||tamgav04.top^
 ||tamoes08.top^
@@ -28217,6 +28202,7 @@
 ||thebusinessstudy.com^
 ||thecableprovider.com^
 ||thecavalier.com^
+||thecentury.edu.vn^
 ||thechachasbiryani.com^
 ||thecharlescorner.com.au^
 ||thechildhooddream.com^
@@ -29783,7 +29769,6 @@
 ||tradbotlive.gq^
 ||trade-skins.net^
 ||tradeadexchange.com^
-||tradeinsights.net^
 ||trademarkorigin.com^
 ||trademiningcryptoworld.com^
 ||trademojo.in^
@@ -30143,6 +30128,7 @@
 ||tykor.net^
 ||tym-lb.com^
 ||tymh2022.xyz^
+||typical-core.click^
 ||typicalairplane.com^
 ||typicalteeth.com^
 ||tytexport.com^
@@ -30592,6 +30578,7 @@
 ||uxbd4id.xyz^
 ||uyf1u0x7.xyz^
 ||uyflu0x7.xyz^
+||uylab.org^
 ||uyunad.com^
 ||uzd1.madeindesign.com^
 ||uzuri-shop.com^
@@ -31216,7 +31203,6 @@
 ||weareqy.com^
 ||wearne.co.za^
 ||wearywater.com^
-||weathermaps.ir^
 ||web-ex.tech^
 ||web-marketing.analytics-getter-priv.management.net.zooplus.de^
 ||web-player-tracker.biliapi.net^
@@ -31520,6 +31506,7 @@
 ||winasdaq.com^
 ||winbridgebd.com^
 ||wind88.shop^
+||windcomtechnologies.com^
 ||winding-coil.com^
 ||windowsupdates.shop^
 ||windsonstaffing.com^
@@ -32482,7 +32469,6 @@
 ||xmsqz.com^
 ||xmywlyh.cn^
 ||xn----7sbfecm2ak0azy.xn--p1ai^
-||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xn--2qu92fhtxsxexqab.xn--fiqs8s^
 ||xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s^
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
