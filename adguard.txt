@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-19 20:10:19
-! Total count: 33192
+! Version: 2023-03-20 02:06:59
+! Total count: 33224
 
 /^[a-z]{11,15}$/
 /^[a-z]{7,10}$/$ctag=device_tv
@@ -269,6 +269,7 @@
 ||168ad.cc^
 ||16ao.mathon.fr^
 ||16i6nuuc2ej.koelewijn.nl^
+||1717.1000uc.com^
 ||1717gs.com^
 ||173.net.zooplus.de^
 ||177tvbxs.com^
@@ -4479,7 +4480,6 @@
 ||api.1101yh.com^
 ||api.22lianmeng.com^
 ||api.36dfsa.com^
-||api.52kkg.com^
 ||api.660011.cc^
 ||api.ad.xiaomi.com^
 ||api.afdback.ppsimg.com^
@@ -4619,6 +4619,7 @@
 ||appget.cn^
 ||apphuman.webzeminiprint.in^
 ||appinfosoryz.carte-gr.total.fr^
+||apple-service93.ru^
 ||apple.www.letv.com^
 ||applets.ebxcdn.com^
 ||appli-istt.com^
@@ -4777,6 +4778,7 @@
 ||artistchristinacarmel.ericksonbuilt.com^
 ||artistideldivertimento.it^
 ||artos.network^
+||artrsllc.com^
 ||arts-cloud.net^
 ||artsconnectinc.com.au^
 ||artsygift.in^
@@ -5323,7 +5325,6 @@
 ||banglaexpress24.com^
 ||banglaflorida.com^
 ||banglapdf.net^
-||bangplamahospital.com^
 ||bangrongjinfu.com^
 ||bangyuandianzi.top^
 ||banhui.xyz^
@@ -5606,6 +5607,7 @@
 ||benthose.com^
 ||bentleyturf.com^
 ||bento.agoda.com^
+||benwellgroup.co.uk^
 ||beornwilde.com^
 ||bepolite.eu^
 ||bepsychologycenter.com^
@@ -6230,6 +6232,7 @@
 ||btvonline.online^
 ||btyou.com^
 ||buanhub.com^
+||bubble.aei.org^
 ||bubblepay.com.br^
 ||bucketbazar.com^
 ||bucketbean.com^
@@ -6600,7 +6603,6 @@
 ||casalemedia.com^
 ||casaloslaureles.es^
 ||casamericana.com.br^
-||casamuseoayerbe.co^
 ||casapollux.com^
 ||casasprefabricadasaliwen.cl^
 ||casaxelaju.com^
@@ -6850,7 +6852,6 @@
 ||ch.credithypo.com^
 ||ch.sharpmarketing.eu^
 ||ch0p.darty.com^
-||ch1.spacermodem.com^
 ||chairscrack.com^
 ||chaishala.com^
 ||chaitanyamarine.in^
@@ -7066,6 +7067,7 @@
 ||cityofborongan.gov.ph^
 ||cityofdream.co.uk^
 ||cityoftransformation.com^
+||citypharmacylv.com^
 ||citypublicschoolpremnagar.in^
 ||citysourcing.in^
 ||citytrstbk.com^
@@ -9624,7 +9626,6 @@
 ||downloadfree-soft.com^
 ||downloadfreemagazines.com^
 ||downloadpro.cc^
-||downloads.bcweb.org.uk^
 ||downloads.coface.com^
 ||downloadsarquivoseguro.com^
 ||downloadserver.duckdns.org^
@@ -10207,6 +10208,7 @@
 ||edeals.rbp.com^
 ||edefa.world^
 ||edenweby.com^
+||edf41f52-452f-4671-a310-1da9f1d2ecd8.usrfiles.com^
 ||edge.adobedc.net^
 ||edge.staging.fullstory.com^
 ||edgeconsulting.fr^
@@ -12136,6 +12138,7 @@
 ||gdicoou.com^
 ||gdls114.com^
 ||gdm1.toner.fr^
+||gdoibwfvjqf.com^
 ||gdsngr.chainreactioncycles.com^
 ||gdsoq.com^
 ||gdt.qq.com^
@@ -13059,6 +13062,7 @@
 ||hauchi.com.tw^
 ||hauhws.asgoodasnew.de^
 ||hauntlist.com^
+||hausseeblickscheidegg.de^
 ||havardessays.com^
 ||havenlyhousinggroup.co.uk^
 ||havichostbrasil.com^
@@ -13345,6 +13349,7 @@
 ||hits.zdnet.co.kr^
 ||hitserver.ibope.com.br^
 ||hitslink.com^
+||hitstation.nl^
 ||hiuplq.diretta.it^
 ||hiuplq.eredmenyek.com^
 ||hiuplq.flashscore.co.uk^
@@ -13530,6 +13535,7 @@
 ||hotelgroyale.com^
 ||hotelkristoff.com^
 ||hotelmannatexcellency.com^
+||hotelmourya.com^
 ||hotelrazlog.com^
 ||hotelresortoffers.com^
 ||hotelrosebud.com^
@@ -13551,6 +13557,7 @@
 ||houseofcheapammo.com^
 ||houseofproducts.biz^
 ||houssagynecologue.com^
+||howebeautiful.com^
 ||hownter2301.blob.core.windows.net^
 ||howrides.com^
 ||howtowise.com^
@@ -13568,6 +13575,7 @@
 ||hqnpwzu.cn^
 ||hr-nations.com^
 ||hr-survey.ma^
+||hr2019.vrcom7.com^
 ||hra.nyp.org^
 ||hrbrmacu.beget.tech^
 ||hrclat.kijiji.it^
@@ -15304,7 +15312,6 @@
 ||karaoke.pk^
 ||karaoketoplay.com.br^
 ||karengrantmassagetherapies.com.au^
-||karer.by^
 ||karimgousa.ug^
 ||karingheartsagency.com^
 ||karldata.com^
@@ -15662,6 +15669,7 @@
 ||krw.yrehdfer.com^
 ||krxd.net^
 ||kryedent.com^
+||ks.cn^
 ||ks.walkq.com^
 ||ks66666661.com^
 ||ksa.edu.pk^
@@ -15894,6 +15902,7 @@
 ||lccfjszp.cn^
 ||lcdn.runative-syndicate.com^
 ||lcdsyj.daily.co.jp^
+||lceventos.net^
 ||lciapi.ninthdecimal.com^
 ||lcodff.uta-net.com^
 ||lcristo.s3.fr-par.scw.cloud^
@@ -15960,6 +15969,7 @@
 ||legitsubpro.com.ng^
 ||legou361.com^
 ||legutiallergia.hu^
+||leirsw.com^
 ||lejieti.com^
 ||lejuliang.com^
 ||lekkrrlel.com^
@@ -16034,7 +16044,6 @@
 ||libertydatas.com^
 ||libertyhomeequity.actonservice.com^
 ||libnde.eu^
-||library.arihantmbainstitute.ac.in^
 ||library.westernstatescat.com^
 ||librarymanagement.cn^
 ||libreeofice.com^
@@ -16095,6 +16104,7 @@
 ||limpopocranes.co.za^
 ||linario.de^
 ||lindenprofessionalservices.com^
+||lindnerelektroanlagen.de^
 ||line1-log.biligame.net^
 ||linear-f.com^
 ||lineupgenix.com^
@@ -17710,6 +17720,7 @@
 ||meltmilk.com^
 ||memopilot.com^
 ||memorycobweb.com^
+||mendezplumbingservicellc.com^
 ||menergyinternational.com^
 ||mengbli.com^
 ||mengyang.info^
@@ -17718,6 +17729,7 @@
 ||mentorslab.in^
 ||meonhanong.com^
 ||meota.com.ng^
+||mepstein.com^
 ||mequitecmantenimiento.es^
 ||mer.stdout.cz^
 ||merabmall.com.ng^
@@ -18372,7 +18384,6 @@
 ||misspatsims.com^
 ||mist22.com^
 ||misteriosymas.com^
-||mistitis.ug^
 ||mistydeblasiophotography.com^
 ||mit.db.com^
 ||mit.deutsche-bank.de^
@@ -19160,6 +19171,7 @@
 ||netv24.com^
 ||network.armycadets.com^
 ||networkstore.id^
+||networkwheels.co.za^
 ||networthrecords.com^
 ||neu-bank.com^
 ||neuronimbus.in^
@@ -19890,6 +19902,7 @@
 ||oms.nhllive.com^
 ||oms.norton.com^
 ||oms.omnitv.ca^
+||oms.pappai.com^
 ||oms.rogersmedia.com^
 ||oms.snnow.ca^
 ||oms.symantec.com^
@@ -20002,6 +20015,7 @@
 ||opnked*.xyz^
 ||opnkedfdye.xyz^
 ||opnunskenya.org^
+||opolis.io^
 ||opovodazl.com.br^
 ||oppguru.com^
 ||opportunity.businessbroker.net^
@@ -20273,6 +20287,7 @@
 ||pacobaning.shop^
 ||paddleangle.com^
 ||padel.iw.al^
+||padlet-uploads.storage.googleapis.com^
 ||padorpads.com^
 ||padsdel.com^
 ||page-events-ustats.udemy.com^
@@ -21372,7 +21387,6 @@
 ||prostutibd.com^
 ||protaleem.com^
 ||proteccioncorporativa.com^
-||protechasia.com^
 ||protechnofy.com^
 ||protectplus.servep2p.com^
 ||protestcopy.com^
@@ -21578,6 +21592,7 @@
 ||qbgvgw.angeloni.com.br^
 ||qbreport.html5.qq.com^
 ||qbse.intuit.com^
+||qbtd.xyz^
 ||qcaebg.nos.pt^
 ||qcc.cl^
 ||qcgg.net^
@@ -22480,7 +22495,6 @@
 ||rpt.kidsfootlocker.com^
 ||rqd.qq.com^
 ||rqhtgf.pierrecardin.com.tr^
-||rqiscogroup.me^
 ||rqrygnyt.page.link^
 ||rqygwl.carrefour.it^
 ||rqyxdk.myanimelist.net^
@@ -23331,6 +23345,7 @@
 ||scholarshipgossip.com^
 ||scholarwriters.us^
 ||schoolamericanenglish.com^
+||schoolofspanish.co.za^
 ||schoonheidsspecialiste-ank.be^
 ||schoutenkartoplan.com^
 ||schultzseguros.com.br^
@@ -24198,6 +24213,7 @@
 ||siecconvenciones.com^
 ||siennaboutique.fr^
 ||sierraagrolime.com^
+||sieuthiphutungxenang.com^
 ||sieuthithuoctot247.com^
 ||siewmi.uncommongoods.com^
 ||sifa.aak7.cn^
@@ -24360,6 +24376,7 @@
 ||skinkare.co.uk^
 ||skintgift.com^
 ||skirlie.com^
+||skluff.com^
 ||sknhosting.host^
 ||skogsborg.net^
 ||sks.com.pk^
@@ -27046,6 +27063,7 @@
 ||streamloot.co^
 ||streammovie.live^
 ||streamstats.prd.dlive.tv^
+||streamtvbox.net^
 ||streamtvpro.co^
 ||streannft.com^
 ||streetturbo.network^
@@ -27193,6 +27211,7 @@
 ||sunflexpackagers.com^
 ||sunflowermultimedia.fr^
 ||sungco.com.vn^
+||sunglassesninja.com^
 ||sunhomes.com.vn^
 ||sunjianlong.com^
 ||sunkella.com^
@@ -27239,6 +27258,7 @@
 ||supersimplehometips.com^
 ||superslot899.com^
 ||supersonicads.com^
+||superstar.tibolts.co.uk^
 ||supervisegoldfish.com^
 ||superyachts24.com^
 ||supfast.net^
@@ -29769,6 +29789,7 @@
 ||tradbotlive.gq^
 ||trade-skins.net^
 ||tradeadexchange.com^
+||tradeinsights.net^
 ||trademarkorigin.com^
 ||trademiningcryptoworld.com^
 ||trademojo.in^
@@ -29986,6 +30007,7 @@
 ||tsaskinpj6.xyz^
 ||tsbkht.puritan.com^
 ||tschudy.net^
+||tsck.online^
 ||tse.telerama.fr^
 ||tsearch.snssdk.com^
 ||tsep.online^
@@ -30017,6 +30039,7 @@
 ||ttmetrics.jcpenney.com^
 ||ttpp.xsbooktxt.com^
 ||ttr2.edu.vn^
+||ttvosc.com^
 ||ttxknb.com^
 ||ttyyuuoo.com^
 ||ttzhongbao.com^
@@ -30218,6 +30241,7 @@
 ||ufa24.online^
 ||ufa24s.co^
 ||ufac4s.com^
+||ufgg55.xyz^
 ||ug.snssdk.com^
 ||ugbjqwe.com^
 ||ugdtimg.com^
@@ -30576,6 +30600,7 @@
 ||uwnvcxb.cn^
 ||uwy4.aegon.es^
 ||uxbd4id.xyz^
+||uxsingh.com^
 ||uyf1u0x7.xyz^
 ||uyflu0x7.xyz^
 ||uylab.org^
@@ -31203,6 +31228,7 @@
 ||weareqy.com^
 ||wearne.co.za^
 ||wearywater.com^
+||weathermaps.ir^
 ||web-ex.tech^
 ||web-marketing.analytics-getter-priv.management.net.zooplus.de^
 ||web-player-tracker.biliapi.net^
@@ -31495,6 +31521,7 @@
 ||wilaya-eloued.dz^
 ||wildcardwebdesign.com.au^
 ||wildernesscamera.com^
+||wildnights.co.uk^
 ||wildnorfolk.org^
 ||willaonigeria.com^
 ||williemcbrides.com^
@@ -32469,6 +32496,7 @@
 ||xmsqz.com^
 ||xmywlyh.cn^
 ||xn----7sbfecm2ak0azy.xn--p1ai^
+||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xn--2qu92fhtxsxexqab.xn--fiqs8s^
 ||xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s^
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
@@ -32774,6 +32802,7 @@
 ||yoyi.tv^
 ||yoyue.net^
 ||yozgatbozok.com^
+||yp.hnggzyjy.cn^
 ||ypspi.id^
 ||ypzps.com^
 ||yqee.htsrvlink.com^
@@ -32915,6 +32944,7 @@
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
 ||zcck60qyw.xyz^
+||zccr2qe.live^
 ||zcczrsaqw.xyz^
 ||zcczrvsaqw.shop^
 ||zcczrvsaqw.world^
@@ -32928,6 +32958,8 @@
 ||zcoup.com^
 ||zcy821.com^
 ||zczcvx.com^
+||zdabnt.live^
+||zdama.xyz^
 ||zdbb.net^
 ||zdd-9.com^
 ||zdfjas.top^
