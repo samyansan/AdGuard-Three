@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-20 02:06:59
-! Total count: 33224
+! Version: 2023-03-20 08:35:38
+! Total count: 33225
 
 /^[a-z]{11,15}$/
 /^[a-z]{7,10}$/$ctag=device_tv
@@ -7789,6 +7789,7 @@
 ||controyodestiny.com^
 ||convead.io^
 ||conversa.com.ec^
+||conversion.mooncard.co^
 ||conversions.genieventures.co.uk^
 ||conversiontraining.com^
 ||convienze.my.id^
@@ -14289,7 +14290,6 @@
 ||info.telstra.com^
 ||info.tetravx.com^
 ||info.theaba.org^
-||info.themyersbriggs.com^
 ||info.thomsonlinear.com^
 ||info.tmlt.org^
 ||info.tpctraining.com^
@@ -23482,6 +23482,7 @@
 ||sealicensing.com^
 ||sealine.youku.com^
 ||sealinkcap.com^
+||search.anonymous.ads.brave.com^
 ||searchads.apple.com^
 ||searchengine-marketing.co.uk^
 ||searchsquids.com^
