@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-24 14:08:06
-! Total count: 26604
+! Version: 2023-03-24 20:10:18
+! Total count: 26614
 
 /^[a-z]{11,15}$/
 /^[a-z]{7,10}$/$ctag=device_tv
@@ -8499,6 +8499,7 @@
 ||eht.endress.com^
 ||eicyds.qoo10.jp^
 ||eiftfa.fashionette.de^
+||eignky.xyz^
 ||eiykmtb.cn^
 ||ejfeng.com^
 ||ejieban.com^
@@ -10747,6 +10748,7 @@
 ||hiyksu.karllagerfeldparis.com^
 ||hj217.com^
 ||hjaorx.ginatricot.com^
+||hjbqnwb.com^
 ||hjgen.cn^
 ||hk1oiaj5zpgo.www.enkeleksamen.no^
 ||hk2d.tourismemauricie.com^
@@ -11766,6 +11768,7 @@
 ||jcaqvl.twinset.com^
 ||jcde.site^
 ||jcedu.org^
+||jched3.com^
 ||jcheys.com^
 ||jcinstalacao.com.br^
 ||jcpclick.com^
@@ -15550,6 +15553,7 @@
 ||okokokokokok.khaby.lol^
 ||okokw.com^
 ||okpoiione.com^
+||okqwidvnsk.net^
 ||oksep.vn^
 ||oktagv.immobilienscout24.at^
 ||okwfx.cn^
@@ -16904,6 +16908,7 @@
 ||qdp.qidian.com^
 ||qdvavs.trademax.se^
 ||qdvideo.xyz^
+||qdwnlkdw.com^
 ||qdzilh.cn^
 ||qedlai.restplatzboerse.com^
 ||qexbcx.olx.kz^
@@ -16959,6 +16964,7 @@
 ||qlldvi.motoscout24.ch^
 ||qllxvh.shopstyle.com^
 ||qm.redbull.com^
+||qmfcybwbf12.com^
 ||qmfcybwbf19.com^
 ||qmsled.com^
 ||qn.bejson.com^
@@ -26034,6 +26040,7 @@
 ||xunyangdianzi4.cn^
 ||xunyibaike.com^
 ||xushenghb.com^
+||xwbspx.xyz^
 ||xwheel.eu^
 ||xwuad.com^
 ||xww360.com^
@@ -26381,11 +26388,14 @@
 ||zcoup.com^
 ||zcy821.com^
 ||zczcvx.com^
+||zdabnt.buzz^
 ||zdabnt.live^
 ||zdama.xyz^
+||zdamybi.xyz^
 ||zdbb.net^
 ||zdd-9.com^
 ||zdfjas.top^
+||zdfl.xyz^
 ||zdpeanut.com^
 ||zdx25.site^
 ||zdx30.site^
