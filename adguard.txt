@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-25 14:07:20
-! Total count: 27035
+! Version: 2023-03-25 20:09:15
+! Total count: 27039
 
 /^[a-z]{11,15}$/
 /^[a-z]{7,10}$/$ctag=device_tv
@@ -10297,6 +10297,7 @@
 ||gojireekitchen.in^
 ||goldcoastsportscards.com^
 ||golden1.sogou.com^
+||golden88.co^
 ||goldenhelix.actonservice.com^
 ||goldenprintingpress.com^
 ||goldensnooker.com^
@@ -15804,6 +15805,7 @@
 ||oinjkenwok.xyz^
 ||oinlkwdsx.xyz^
 ||oinlkwr.xyz^
+||oiqbdwjkl.com^
 ||oiqwnfk.com^
 ||oiughv.dotti.com.au^
 ||oiuqwppcsdf.com^
@@ -16834,6 +16836,7 @@
 ||popeurope.com^
 ||poppop.online^
 ||poppyta.com^
+||poqjnkdsou.net^
 ||poqwua.cn^
 ||porpoise.azettl.net^
 ||port-kill.homes^
@@ -22938,6 +22941,7 @@
 ||tireloadchart.com^
 ||tiresomethunder.com^
 ||tirolerupdate.com^
+||tisszhb.cn^
 ||tiszaors.hu^
 ||tizesutsofor.hu^
 ||tj-cyhg.com^
