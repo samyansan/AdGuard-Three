@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-25 20:09:15
-! Total count: 27039
+! Version: 2023-03-26 02:06:18
+! Total count: 27046
 
 /^[a-z]{11,15}$/
 /^[a-z]{7,10}$/$ctag=device_tv
@@ -109,6 +109,7 @@
 ||0ci.top^
 ||0d8is908gby1.www.terraform.com.ar^
 ||0doo.net^
+||0e118.language.sebtomato.com^
 ||0e1b4.asset.tradingvein.xyz^
 ||0e607.favor.thehouseplantblog.com^
 ||0f891.asset.tradingvein.xyz^
@@ -259,7 +260,6 @@
 ||168ad.cc^
 ||16ao.mathon.fr^
 ||16i6nuuc2ej.koelewijn.nl^
-||1717.1000uc.com^
 ||1717gs.com^
 ||173.net.zooplus.de^
 ||177tvbxs.com^
@@ -490,7 +490,7 @@
 ||35.239.57.233^
 ||3590c.signing.unitynotarypublic.com^
 ||35kn0fn.1kanz.cn^
-||360down7.miiyun.cn^
+||360.lcy2zzx.pw^
 ||360kaixin.com^
 ||360newsmag.com^
 ||360sinlimites.com.mx^
@@ -660,6 +660,7 @@
 ||577gc.me^
 ||58.218.215.144^
 ||58.218.215.145^
+||582eb.language.sebtomato.com^
 ||5866c.decision.alshafipdk.com^
 ||58ar.com^
 ||58c94.asset.tradingvein.xyz^
@@ -705,6 +706,7 @@
 ||61ed2.signing.unitynotarypublic.com^
 ||61hhdp.com^
 ||634lj7p7g3lv.unstoppabledomains.com^
+||63566.language.sebtomato.com^
 ||63kc.com^
 ||63xs.com:8016^
 ||6401f.samples.muzikcitysound.com^
@@ -3991,7 +3993,6 @@
 ||animeshoppers.com^
 ||aniq-tenda.com^
 ||anjosrosa.com.br^
-||ankatiyatro.com^
 ||ankurajmaniclasses.in^
 ||anmet.originenergy.com.au^
 ||annagoldstein.com^
@@ -4074,7 +4075,6 @@
 ||api-launcher-em.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api-mf1.meta.ndmdhs.com^
-||api-ms.cobainaja.id^
 ||api-shoulei-ssl.xunlei.com^
 ||api-u-ssl.xunlei.com^
 ||api.*.hismarttv.com^
@@ -4689,6 +4689,7 @@
 ||banglaexpress24.com^
 ||banglaflorida.com^
 ||banglanetbd.com^
+||bangplamahospital.com^
 ||bangrongjinfu.com^
 ||bangyuandianzi.top^
 ||banhui.xyz^
@@ -4835,6 +4836,7 @@
 ||beamincrease.com^
 ||beanbagsfilling.com.au^
 ||beap.gemini.yahoo.com^
+||bearcatpumps.com.cn^
 ||bearobonaut.com^
 ||beartees.pubninja.com^
 ||bearware.org^
@@ -5269,7 +5271,6 @@
 ||breakshoulder.com^
 ||breakyboost.com^
 ||brickworks.viessmann.sg^
-||brideofmessiah.com^
 ||briefbears.com^
 ||briefstem.com^
 ||brightlifepharma.com^
@@ -5334,7 +5335,6 @@
 ||bttmkj.diesel.com^
 ||btyou.com^
 ||buanhub.com^
-||bubble.aei.org^
 ||bucketbean.com^
 ||bucketbill6.s3.amazonaws.com^
 ||bucketbill7.s3.amazonaws.com^
@@ -6760,6 +6760,7 @@
 ||creativesavstudios.com^
 ||creativit.fr^
 ||creator.zmags.com^
+||crecerco.com^
 ||creditworldsg.com^
 ||credrewards.in^
 ||creepingbrings.com^
@@ -7374,6 +7375,7 @@
 ||davidharris.online^
 ||davidharris.top^
 ||davidkujawa.com^
+||davidmcguinness.info^
 ||davidprestigeas.com^
 ||davidsmovingco.com^
 ||davmandi.org^
@@ -9043,6 +9045,7 @@
 ||estategps.com^
 ||estcruden.biz^
 ||esteemallianceunion.com^
+||estiloymadera.com.py^
 ||estnavsa.com.ec^
 ||estudio.ythan.com.br^
 ||et.nytimes.com^
@@ -9673,7 +9676,6 @@
 ||forflygonom.com^
 ||forgetfulflowers.com^
 ||forgoodmusic.com.tw^
-||formar3d.com.br^
 ||forms.accc-cancer.org^
 ||forms.testoil.com^
 ||fortdelgres.com^
@@ -10295,6 +10297,7 @@
 ||goghawelfare.com^
 ||gogorhino.com^
 ||gojireekitchen.in^
+||gokcevizyon.com^
 ||goldcoastsportscards.com^
 ||golden1.sogou.com^
 ||golden88.co^
@@ -10795,7 +10798,6 @@
 ||herculeswhats.net^
 ||hergelekitap.com.tr^
 ||hermann-madinger.com^
-||hernandezclean.com^
 ||hernoclothing.com^
 ||heroclick.cn^
 ||heroespreviews.com^
@@ -11060,6 +11062,7 @@
 ||hqmetrics.sony.com^
 ||hqnpwzu.cn^
 ||hr-survey.ma^
+||hr2019.vrcom7.com^
 ||hra.nyp.org^
 ||hrbrmacu.beget.tech^
 ||hrclat.kijiji.it^
@@ -11275,7 +11278,6 @@
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||ideadevice.actonservice.com^
 ||idealcoolgifts.com^
-||ideaplusjal.in^
 ||ideaux.in^
 ||ideng.com^
 ||iderconsulting.com^
@@ -11371,7 +11373,6 @@
 ||ilyf4amifh.com^
 ||im-x.jd.com^
 ||image-ad.sm.cn^
-||image-thaihometown.com^
 ||image.ard.de^
 ||image.kfw-entwicklungsbank.de^
 ||image.kfw.de^
@@ -11469,6 +11470,7 @@
 ||inditec.com.br^
 ||indmetric.rediff.com^
 ||indrani-therapy.com^
+||indrasbikaner.com^
 ||indus.pk^
 ||indusenterprises.co^
 ||industrial-electricity-contactor.ir^
@@ -12121,9 +12123,9 @@
 ||jnyayk.xyz^
 ||jnzucsjc6eww.app.datree.io^
 ||jo2f.cheque-cadhoc.fr^
+||joanaghafoundation.org^
 ||joannarace.com^
 ||joastb.idealista.com^
-||jobcity.com^
 ||joblessdrum.com^
 ||jobvoo.com^
 ||jocelynrace.com^
@@ -12429,6 +12431,7 @@
 ||keyade.alltricks.fr^
 ||keyade.ooreka.fr^
 ||keydot.net^
+||keyesforsteuben.com^
 ||keyne-in.com.cn^
 ||keyrun.cn^
 ||keyrun.com^
@@ -12715,7 +12718,6 @@
 ||lalaping.com^
 ||lam.promo.skf.com^
 ||lamango.com.ng^
-||lameguard.ru^
 ||lamerenfrancais.com^
 ||lamh.online^
 ||lamired.com^
@@ -13105,7 +13107,6 @@
 ||linkssl.com^
 ||linktech.cn^
 ||linktrace.diningcity.cn^
-||linkvilleplayers.org^
 ||linostee.com^
 ||linyongming.top^
 ||linzhangxian.com^
@@ -13594,7 +13595,6 @@
 ||madetoconnect.summit-broadband.com^
 ||madhavdevelopers.com^
 ||madhouse.cn^
-||madicon.co.za^
 ||madridconstructores.com^
 ||mads-eu.amazon.com^
 ||madserving.com^
@@ -14232,6 +14232,7 @@
 ||medisoups.com^
 ||medjugorje.tours^
 ||medktech.com^
+||medmompharma.com^
 ||medspaserenity.com^
 ||medusasailor.com^
 ||meediaberry.com^
@@ -14280,6 +14281,7 @@
 ||mercygoldclearingagent.com.ng^
 ||meremark.com^
 ||merfs.fun^
+||meridianites.com^
 ||meriwest.actonservice.com^
 ||mesptitescrea.com^
 ||message.alldata.com^
@@ -14829,6 +14831,7 @@
 ||miniapp.bilibili.com^
 ||minimeagency.de^
 ||minisplat.cn^
+||ministerioagape.net^
 ||minormeeting.com^
 ||minspartyhire.com.au^
 ||minuterhythm.com^
@@ -14988,7 +14991,6 @@
 ||moneylandry.com^
 ||moneymm1688.shop^
 ||moneysavingsolar.com^
-||moninediy.com^
 ||monirulsheikh.com^
 ||monitor-uu.play.aiseet.atianqi.com^
 ||monitor.azure.com^
@@ -15301,6 +15303,7 @@
 ||nalzahqp.page.link^
 ||namedq.com^
 ||namlittleforest.com^
+||namthaibinh.net^
 ||nanistores.com^
 ||nanostats.nanopress.it^
 ||naomorrasemaceitarjesus.org.mz^
@@ -15632,7 +15635,6 @@
 ||nqgmcp.chairish.com^
 ||nqyuel589fq5.esgrounding.com^
 ||nr-events.taboola.com^
-||nrc-soluciones.com.ar^
 ||nrg.red-by-sfr.fr^
 ||nripxo.motoblok.biz^
 ||nrjcur.pomelofashion.com^
@@ -15722,6 +15724,7 @@
 ||oaftaijo.net^
 ||oaizwm.zox.la^
 ||oal2.destinia.co.uk^
+||oazahotel.com.mk^
 ||obbtix.eolo.it^
 ||obdigitizers.com^
 ||obertsiamw.fun^
@@ -16301,6 +16304,7 @@
 ||paragonvogue.com^
 ||parajumperssalg.com^
 ||parallax-systems.com^
+||parallel.rockvideos.at^
 ||parasautorickshaw.com^
 ||parchedangle.com^
 ||parchedsofa.com^
@@ -18222,6 +18226,7 @@
 ||sadobemarketing.bodenusa.com^
 ||sadobemetrics.dr.dk^
 ||sadobemetrics.la-z-boy.com^
+||saf-oil.ru^
 ||saf27data.com.ng^
 ||safeco-group.com^
 ||safeerullahkhan.com^
@@ -20565,7 +20570,6 @@
 ||sobiaelrahmany.com^
 ||social-touch.com^
 ||social.law^
-||sociallysavvyseo.com^
 ||socialnap.com^
 ||sociopoolindia.com^
 ||socioscreativos.com^
@@ -22793,7 +22797,6 @@
 ||thebikinisociety.com^
 ||thebilions.com^
 ||thebluemetal.com^
-||thecentury.edu.vn^
 ||thechildhooddream.com^
 ||thedailyvendor.com^
 ||thedefencezone.com^
@@ -22887,6 +22890,7 @@
 ||threetruck.com^
 ||thrifasonline.net^
 ||throattrees.com^
+||thuexevanphong.com^
 ||thumos.fileside.app^
 ||thunderingrose.com^
 ||ti3av8k3ikwm.resume.gerardbosch.xyz^
@@ -22921,6 +22925,7 @@
 ||tilanalytics.timesinternet.in^
 ||tim.nextinpact.com^
 ||timactech.com^
+||timamollo.co.za^
 ||timber.sendtonews.com^
 ||timediazm.com^
 ||timejs.game.163.com^
@@ -24413,6 +24418,7 @@
 ||tunisiacheknews.com^
 ||tunistecng.com^
 ||tunnel-tek.com^
+||tupperware.michaelroberge.ca^
 ||turboeagle.co^
 ||turbolion.io^
 ||turismoastorga.es^
@@ -25042,6 +25048,7 @@
 ||vnl1.voyage-prive.nl^
 ||vnvmif.cn^
 ||vocedigital.com.br^
+||vocoptions.net^
 ||vodone.com^
 ||vodstudio.com.au^
 ||vogate.com^
@@ -25273,7 +25280,6 @@
 ||weareqy.com^
 ||wearne.co.za^
 ||wearywater.com^
-||weathermaps.ir^
 ||web-marketing.analytics-getter-priv.management.net.zooplus.de^
 ||web-player-tracker.biliapi.net^
 ||web-reco-stage.ns.machinevision.net.zooplus.it^
@@ -25511,6 +25517,7 @@
 ||wirecomic.com^
 ||wiseflys.com^
 ||wiseguysdigital.com^
+||wisewomanwarrior.com^
 ||wissen.sage.de^
 ||wistfulflight.com^
 ||witchygypsy.com^
