@@ -2,9 +2,9 @@
 
 # 下载规则
 curl -o i-1.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-curl -o i-2.txt https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt
-curl -o i-3.txt https://raw.gitmirror.com/timlu85/AdGuard-Home_Youtube-Adfilter/master/Youtube-Adfilter-Web.txt
-curl -o i-4.txt https://raw.iqiq.io/ilxp/koolproxy/master/rules/steven.txt
+curl -o i-2.txt https://ghproxy.com/https://raw.githubusercontent.com/ilxp/koolproxy/main/rules/yhosts.txt
+curl -o i-3.txt https://raw.iqiq.io/ilxp/koolproxy/master/rules/antiad.txt
+curl -o i-4.txt https://ghproxy.com/https://raw.githubusercontent.com/ilxp/koolproxy/main/rules/adgk.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
