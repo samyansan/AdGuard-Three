@@ -12,6 +12,8 @@ dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
 dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
+dmhy.org###pkpk
+dmhy.org##div[id*="_ad"]
 douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 douyu.com,huya.com##a[href^="https://g.wan."]
@@ -36,6 +38,8 @@ qq.com##+js(no-xhr-if,/trace\.|\/collect/)
 qq.com##+js(set,RTCPeerConnection,null)
 qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
 qq.com#@#+js(nowebrtc)
+tieba.baidu.com##div.fengchao-banner-defensive
+tieba.baidu.com##div.nav-bar-bottom
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 v.qq.com###player .txp_zt_content
 v.qq.com##.quick_games.quick_item,div.card-wrap
@@ -44,6 +48,7 @@ video.qq.com#@#+js(json-prune,ads adList.item)
 video.qq.com#@#+js(no-fetch-if,/trace\.|beacon\./)
 video.qq.com#@#+js(no-xhr-if,/trace\.|\/collect/)
 video.qq.com#@#+js(set,RTCPeerConnection,null)
+vidhub.cc##div.player-info > div.module
 www.sbdm.net##.ads_all:remove()
 www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
@@ -904,6 +909,8 @@ yy.com,le.com##+js(nowebrtc)
 ||https://dm456.com,dm456.iqiyi.com##DIV[style*="height:90px;"],IFRAME[width="978"][height="90"],IFRAME[src ="/m/"],DIV#bdLeft,IFRAME[width="980"][height="92"],DIV#p-right,DIV#p-left
 ||https://dm5.com##div#float_tc_pop_299,div[adgroupid="0"],div.beitouc,div.cl760,div.cl970,.yddiv,.adCon,.adform_2,.adform_1,#nAd
 ||https://dm530.net,it168.com###adv
+||https://dmhy.org###pkpk
+||https://dmhy.org##div[id*="_ad"]
 ||https://dmzj.com##div[style ="width:960px;height:60px;"],#app_manhua,DIV[style$="0px;display:block;width:960px;"],div[style="width:960px;height:90px;"],.ad,[height="90"],.ad_th,.timeAD
 ||https://dndiy.net##.w_first_main,[src="http://www.dndiy.net/images/atrtop.gif"],[src="http://www.dndiy.net/ima/article/12s.jpg"]
 ||https://dnvod.eu###clickbgleft,#clickbgright,#msg_winw,.box,.gg,.ggw,.r-gg,.ggw-l,.bfq-r,.tgg,.clickbg
@@ -1691,7 +1698,6 @@ yy.com,le.com##+js(nowebrtc)
 ||https://m.baidu.com,www.baidu.com##DIV[class='c-container ec_resitem ec-new2  ec_wise_im ec_resitem_card ec_adv_last']
 ||https://m.baidu.com,www.baidu.com##DIV[class='c-container ec_resitem ec-new2  ec_wise_im ec_resitem_card']
 ||https://m.baidu.com,www.baidu.com##DIV[class='c-container ec_resitem_card ec_resitem_rs']
-||https://m.baidu.com,www.baidu.com##DIV[class='c-container']
 ||https://m.baidu.com,www.baidu.com##DIV[class='c-line-bottom ec_guess']
 ||https://m.baidu.com,www.baidu.com##DIV[class='ec_urlline']
 ||https://m.baidu.com,www.baidu.com##DIV[class='rw-list']
@@ -2384,6 +2390,8 @@ yy.com,le.com##+js(nowebrtc)
 ||https://tieba.baidu.com##div.banner-wrapper,div.fixed-nav-bar.nav-bar-wrapper,div.recommend-list,div.nav-bar-wrapper
 ||https://tieba.baidu.com##div.daoliubar.appPromote
 ||https://tieba.baidu.com##div.father_cut_daoliu
+||https://tieba.baidu.com##div.fengchao-banner-defensive
+||https://tieba.baidu.com##div.nav-bar-bottom
 ||https://tieba.baidu.com##div.open-style
 ||https://tieba.baidu.com##div.panel_bottom,li.tl_shadow tl_shadow_new
 ||https://tieba.baidu.com##div.sponsor_banner
@@ -2511,6 +2519,7 @@ yy.com,le.com##+js(nowebrtc)
 ||https://vfe3.com##div#swtleft
 ||https://vgugu.com##div#bn_ad,div[id ="test"],div.in_br
 ||https://vhiphop.com##.slides
+||https://vidhub.cc##div.player-info > div.module
 ||https://vip-free.com###adpic
 ||https://vip.com##div.u-download-bar
 ||https://vipcn.com##.bnr,.ggzs_bottom,.adn,.Qad,.hz-bottom,.c_soft_button,#z_baidu
