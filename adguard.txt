@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-05-24 20:12:41
-! Total count: 16695
+! Version: 2023-05-25 02:09:12
+! Total count: 16691
 
 */letv-gug/$media,object-subrequest,xhr
 */preroll/$media,domain=91porn.com
@@ -12,7 +12,6 @@
 /killcovid2021\.com/\d\.mp4/$mp4
 17173.com###vjs-ad-on-pause
 1905.com##+js(json-prune,videolink)
-4kya.com###player_pause
 91p20.space
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ad-survey.com
@@ -31,6 +30,7 @@ bjcathay.com
 cad.youku.com
 cctv.com###bgAd_div
 cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
+chushoushijian.cn
 cm.bilibili.com
 cm.l.qq.com
 cr-nielsen.com
@@ -62,9 +62,6 @@ litix.io
 m.iqiyi.com##+js(set, Object.prototype.adPlayerId, '')
 m.youku.com,v.youku.com##+js(m3u-prune,'',/^https:\/\/[\w\.]+ott\.cibntv\.net.+?\.m3u8\?/)
 miaozhen.com
-netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
-netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
-netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 onenews.vip
 orgaorg.com
@@ -118,6 +115,7 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 youtube.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 yoyi.com.cn
 yy.com,le.com##+js(nowebrtc)
+z4a.net
 zhiziyun.com
 |https://$script,subdocument,popup,3p,domain=btsow.mom|dandanzan10.top|dandanzan.*|nunuyingyuan.com|nunuyy5.org|rarbgprx.org
 |https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
@@ -16564,7 +16562,6 @@ zhiziyun.com
 ||wkrd.tingyun.com
 ||wl.hd.sohu.com
 ||wn.pos.baidu.com
-||wp.com/netflixya.com/upload/$image
 ||wv.inner-active.mobi
 ||ww129.smartadserver.com
 ||ww13.smartadserver.com
@@ -16642,7 +16639,6 @@ zhiziyun.com
 ||xunlei.adx.admaster.com.cn
 ||y.da.mgtv.com
 ||y76.ylems.club
-||yanetflix.com/upload/vod/$image
 ||yaolan.adsame.com
 ||yaolu.mh.163.com
 ||yaolu.yuedu.163.com
