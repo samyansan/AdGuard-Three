@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-05-26 02:07:05
+! Version: 2023-05-26 08:31:41
 ! Total count: 76971
 
 */letv-gug/$media,object-subrequest,xhr
@@ -764,7 +764,6 @@ zhiziyun.com
 ||d9.sina.com.cn
 ||da.mgtv.com/mediafiles/wiad_creative/$image
 ||da.mmarket.com
-||dandanzan.cf/serviceworker.js^$script
 ||data-id.ads.oppomobile.com
 ||data.ads.oppomobile.com
 ||data.vod.itc.cn/*&prod=ad&$media
@@ -76369,7 +76368,8 @@ zhiziyun.com
 ||nrcapi.ssl2.duapps.com
 ||nsclick.baidu.com
 ||nsclickvideo.baidu.com
-||nunuyingyuan.com/serviceworker.js^$script
+||nunuyingyuan.tk/serviceworker.js^$script
+||nunuyy.cf/serviceworker.js^$script
 ||o2o.api.xiaomi.com
 ||oasc04012.247realmedia.com
 ||oc.umeng.com
