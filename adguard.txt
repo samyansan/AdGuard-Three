@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-07-10 14:09:26
+! Version: 2023-07-10 20:12:26
 ! Total count: 16698
 
 */letv-gug/$media,object-subrequest,xhr
@@ -11,7 +11,6 @@
 *_ad_$media,domain=youtube.com,3p
 /killcovid2021\.com/\d\.mp4/$mp4
 17173.com###vjs-ad-on-pause
-1905.com##+js(json-prune,videolink)
 91p20.space
 </body>
 </html>
@@ -700,7 +699,7 @@ zhiziyun.com
 ||cfg-cdn.aiclk.com
 ||changyan.sohu.com
 ||china.inmobi.com
-||cibntv.net/youku/$media,mp4
+||cibntv.net/youku/$media
 ||ckmap.mediav.com
 ||cl2.webterren.com
 ||click.admaster.com.cn
@@ -16230,6 +16229,7 @@ zhiziyun.com
 ||rayli.adsame.com
 ||rcv.aiclk.com
 ||rd596n.jomodns.com
+||relive.vodfile.m1905.com/video/qiantie202$media
 ||report-stats.ad.jiguang.cn
 ||report.adview.cn
 ||req.appads.com

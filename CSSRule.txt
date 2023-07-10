@@ -1,5 +1,4 @@
 17173.com###vjs-ad-on-pause
-1905.com##+js(json-prune,videolink)
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
 bilibili.com##.ad-report, .ad-floor
