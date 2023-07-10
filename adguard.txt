@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-07-10 20:12:26
+! Version: 2023-07-11 02:08:17
 ! Total count: 16698
 
 */letv-gug/$media,object-subrequest,xhr
